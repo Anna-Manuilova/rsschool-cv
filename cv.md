@@ -23,8 +23,8 @@ function multiply(a, b){
 * HTML Academy (training programms, in progress)
 ## Education
 * Tver State University, Tver, Russia
- Bachelor's degree, Linguistics, Translation and Translation Studies,
- September 2012 - June 2016
+  * Bachelor's degree, Linguistics, Translation and Translation Studies
+  * September 2012 - June 2016
 ## Languages:
 * Russian - Native
 * English - C1
