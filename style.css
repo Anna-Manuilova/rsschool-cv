@@ -146,6 +146,17 @@ h6 {
     line-height: 2px;
     color: #2AAEE7;
     padding: 0 13px;
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+
+  .menu__link:visited {
+    color: #6495ED;
+  }
+
+  .menu__link:hover {
+    color: #0000FF;
+    text-decoration: underline;
   }
 
   html {
