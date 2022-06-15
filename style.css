@@ -109,6 +109,11 @@ h6 {
     flex: 1 1 auto;
   }
 
+  .main-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
   [class*=__container] {
     max-width: 501px;
     margin: 0px auto;
@@ -168,4 +173,13 @@ h6 {
     scroll-behavior: smooth; 
   }
 
+  .section {
+    width: 50%;
+  }
+
+  @media (max-width: 768px) {
+    .section {
+      width: 100%;
+    }
+  }
 
